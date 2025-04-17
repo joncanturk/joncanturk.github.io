@@ -1,6 +1,6 @@
 <h1 align="center"> Jon Canturk | Cybersecurity Specialist</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Security+Operations+Management;Cyber+Defender;Digital+Forensics+Incident+Responsender;Red+Teamer+at+Heart;Incident+Responder&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Security+Operations+Management;Cyber+Defense;Digital+Forensics+Incident+Response;Red+Teamer+at+Heart;Threat+Monitoring;&center=true&width=440&height=45">
 </p>
 
 ---
