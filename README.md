@@ -1,4 +1,4 @@
-<h1 align="center">🕶️ Jon C. | Cybersecurity Specialist</h1>
+<h1 align="center">🕶️ Jon Canturk | Cybersecurity Specialist</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Security+Operations+Management;Cyber+Defender;Digital+Forensics+Incident+Responsender;Red+Teamer+at+Heart;Incident+Responder&center=true&width=440&height=45">
 </p>
@@ -16,7 +16,6 @@ Hi there! I'm a results-driven cybersecurity professional with experience in thr
 👾 Passionate about advanced threat detection & reverse engineering
 🧰 Splunk, Exabeam, Crowdstrike, QRadar, YARA, Ghidra, Wireshark, and more
 📚 Forever learning — currently tackling CISSP
-✍️ Blogging about threat intel & cyber ops at (https://joncanturk.medium.com/)
 
 ---
 
@@ -36,8 +35,8 @@ Hi there! I'm a results-driven cybersecurity professional with experience in thr
 
 ⚙️ TOOLKIT
 
-[+] SIEMs      --> Splunk | Exabeam | ELK
-[+] EDR        --> CrowdStrike | Carbon Black | SentinelOne
+[+] SIEMs      --> Splunk | Exabeam | ELK | QRadar
+[+] EDR        --> CrowdStrike | Carbon Black | SentinelOne | McAfee
 [+] Forensics  --> Autopsy | FTK Imager | Volatility
 [+] Malware    --> Ghidra | IDA | YARA | Remnux
 [+] OSINT      --> Maltego | SpiderFoot | Shodan | VirusTotal
@@ -47,7 +46,7 @@ Hi there! I'm a results-driven cybersecurity professional with experience in thr
 
 📡 CONNECT WITH ME
 📬 [LinkedIn] https://www.linkedin.com/in/jcanturk/
-🌐 [Cybersecurity Blog] https://joncanturk.medium.com/
+✍️ [Cybersecurity Blog] https://joncanturk.medium.com/
 
 ---
 
