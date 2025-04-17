@@ -1,45 +1,38 @@
-    _____       _           _____  _____   _____ 
-|  __ \     | |         / ____|/ ____| |  __ \
-| |__) |   _| |__   ___| (___ | |      | |__) |
-|  ___/ | | | '_ \ / _ \\___ \| |      |  _  / 
-| |   | |_| | |_) |  __/____) | |____  | | \ \ 
-|_|    \__,_|_.__/ \___|_____/ \_____| |_|  \_\
-                                              
-                                               
-   ▓▓ Security Operations Lead | Digital Forensics & Incident Response | Cyber Defender | Threat Detection & Response ▓▓
+👋 Hi there! I'm a results-driven cybersecurity professional with experience in threat detection, incident response, malware analysis, and digital forensics. I’m passionate about safeguarding digital environments and staying ahead of emerging threats. I provide high-impact services to Fortune 50/100/500 clients, helping to build and mature security operations with a focus on cyber monitoring, threat detection, and incident response capabilities.
 
-<h1 align="center">🕶️ John C. | Cybersecurity Specialist</h1>
+---
+
+<h1 align="center">🕶️ Jon C. | Cybersecurity Specialist</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Threat+Hunter.;Digital+Forensics+Analyst.;Red+Teamer+at+Heart.;Incident+Responder.;SIEM+and+SOAR+Wizard.&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Security+Operations+Management;Cyber+Defender;Digital+Forensics+Incident+Responsender;Red+Teamer+at+Heart;Incident+Responder&center=true&width=440&height=45">
 </p>
 
 ---
 
 ## 🧠 WHOAMI
 ```bash
-> echo "Cyber defense isn't a job. It's a mindset."  
-> ./John_C --profile
+> "Cyber defense isn't a job. It's a mindset."  
 
-
-🎯 5+ years defending networks & hunting bad actors
+🎯 5+ years defending networks at Fortune 50/100/500 customers
 👾 Passionate about advanced threat detection & reverse engineering
-🧰 Exabeam, Splunk, YARA, Ghidra, Wireshark, and more
+🧰 Splunk, Exabeam, Crowdstrike, QRadar, YARA, Ghidra, Wireshark, and more
 📚 Forever learning — currently tackling CISSP
-✍️ Blogging about threat intel & cyber ops at [cybersafe.blog](https://joncanturk.medium.com/)
+✍️ Blogging about threat intel & cyber ops at (https://joncanturk.medium.com/)
+
+---
 
 ⚙️ TOOLKIT
 
 [+] SIEMs      --> Splunk | Exabeam | ELK
 [+] EDR        --> CrowdStrike | Carbon Black | SentinelOne
-[+] Forensics  --> Autopsy | FTK Imager | Volatility | CyberChef
+[+] Forensics  --> Autopsy | FTK Imager | Volatility
 [+] Malware    --> Ghidra | IDA | YARA | Remnux
 [+] OSINT      --> Maltego | SpiderFoot | Shodan | VirusTotal
 [+] Scripting  --> Python | Bash | Regex | PowerShell
 
-🧪 CURRENT PROJECTS
-🧬 ThreatSim Lab
-A simulated SOC environment built for practicing threat detection & response
-🔧 Python | Splunk | Sigma | MITRE ATT&CK
+
+---
+
 
 🐍 Malware Analysis Vault
 Reverse engineering real-world malware samples in a safe sandbox
@@ -47,19 +40,23 @@ Reverse engineering real-world malware samples in a safe sandbox
 
 ⚡ SOC Automation Scripts
 Custom tools to speed up triage, IOC enrichment, and threat hunting
-🔧 Python | API Integration | Regex | JSON Parsing
+
+---
 
 # Validated Skills
+[✔] GIAC Certified Incident Handler Certification (GCIH)
+[✔] GIAC Certified Forensic Analyst Certification (GCFA)
 [✔] CompTIA Security+
-[✔] CompTIA CySA+
-[✔] Splunk Core Certified Power User
+[✔] CompTIA Pentest+
+[✔] Splunk Power User
+[✔] AWS Certified Security Specialty
+[✔] Google Professional Cloud Security Engineer
 [⏳] CISSP (In Progress – 2025)
 [☠] Certified Hacker at Heart (Unofficial, but dangerous 😎)
 
 📡 CONNECT WITH ME
-📬 LinkedIn
-🌐 Cybersecurity Blog
-📧 your.email@example.com\
+📬 [LinkedIn](https://www.linkedin.com/in/jcanturk/)
+🌐 [Cybersecurity Blog](https://joncanturk.medium.com/)
 
 
 “You can’t patch human curiosity. So I weaponized it.”
