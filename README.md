@@ -35,12 +35,12 @@ Hi there! I'm a results-driven cybersecurity professional with experience in thr
 
 ⚙️ TOOLKIT
 
-[+] SIEMs      --> Splunk | Exabeam | ELK | QRadar
-[+] EDR        --> CrowdStrike | Carbon Black | SentinelOne | McAfee
-[+] Forensics  --> Autopsy | FTK Imager | Volatility
-[+] Malware    --> Ghidra | IDA | YARA | Remnux
-[+] OSINT      --> Maltego | SpiderFoot | Shodan | VirusTotal
-[+] Scripting  --> Python | Bash | Regex | PowerShell
+[+] SIEMs      --> | Splunk | Exabeam | ELK | QRadar
+[+] EDR        --> | CrowdStrike | Carbon Black | SentinelOne | McAfee
+[+] Forensics  --> | Autopsy | FTK Imager | Volatility
+[+] Malware    --> | Ghidra | IDA | YARA | Remnux
+[+] OSINT      --> | Maltego | SpiderFoot | Shodan | VirusTotal
+[+] Scripting  --> | Python | Bash | Regex | PowerShell
 
 ---
 
