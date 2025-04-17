@@ -9,7 +9,9 @@
 
 Hi there! I'm a results-driven cybersecurity professional with experience in threat detection, incident response, malware analysis, and digital forensics. I’m passionate about safeguarding digital environments and staying ahead of emerging threats. I provide high-impact services to Fortune 50/100/500 clients, helping to build and mature security operations with a focus on cyber monitoring, threat detection, and incident response capabilities.
 
-> "Cyber defense isn't a job. It's a mindset."  
+
+> "Cyber defense isn't a job. It's a mindset."
+
 
 🎯 5+ years defending networks at Fortune 50/100/500 customers
 👾 Passionate about advanced threat detection & reverse engineering
@@ -18,7 +20,7 @@ Hi there! I'm a results-driven cybersecurity professional with experience in thr
 
 ---
 
-🎓 Validated Skills / Certifications
+🎓 VALIDATED SKILLS / CERTIFICATIONS
 
 [✔] GIAC Certified Incident Handler Certification (GCIH)
 [✔] GIAC Certified Forensic Analyst Certification (GCFA)
@@ -44,10 +46,12 @@ Hi there! I'm a results-driven cybersecurity professional with experience in thr
 ---
 
 📡 CONNECT WITH ME
+
 📬 [LinkedIn] https://www.linkedin.com/in/jcanturk/
 ✍️ [Cybersecurity Blog] https://joncanturk.medium.com/
 
 ---
+
 
 “You can’t patch human curiosity. So I weaponized it.”
 – Unknown
