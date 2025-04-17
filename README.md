@@ -1,3 +1,12 @@
+    _____       _           _____  _____   _____ 
+|  __ \     | |         / ____|/ ____| |  __ \
+| |__) |   _| |__   ___| (___ | |      | |__) |
+|  ___/ | | | '_ \ / _ \\___ \| |      |  _  / 
+| |   | |_| | |_) |  __/____) | |____  | | \ \ 
+|_|    \__,_|_.__/ \___|_____/ \_____| |_|  \_\
+                                              
+                                               
+   ▓▓ Security Operations Lead | Digital Forensics & Incident Response | Cyber Defender | Threat Detection & Response ▓▓
 
 <h1 align="center">🕶️ John C. | Cybersecurity Specialist</h1>
 <p align="center">
