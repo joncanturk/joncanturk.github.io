@@ -1,69 +1,61 @@
-# 💻 John C. | Cybersecurity Professional  
 
-👋 Hi there! I'm a results-driven cybersecurity professional with over 5 years of experience in threat detection, incident response, malware analysis, and digital forensics. I’m passionate about safeguarding digital environments and staying ahead of emerging threats.
-
----
-
-## 🧠 About Me
-- 🔐 Cyber Defense Specialist | Threat Hunter | Incident Responder  
-- 🎯 Focused on proactive threat monitoring and threat intel-driven defense  
-- 🛠️ Skilled in SIEM (Splunk, Exabeam), SOAR, EDR tools, and forensic analysis  
-- 🌐 Internet security and safety advocate | Blogger & Educator  
-- 📚 Currently working toward CISSP certification
+<h1 align="center">🕶️ John C. | Cybersecurity Specialist</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Threat+Hunter.;Digital+Forensics+Analyst.;Red+Teamer+at+Heart.;Incident+Responder.;SIEM+and+SOAR+Wizard.&center=true&width=440&height=45">
+</p>
 
 ---
 
-## 🛠️ Core Competencies
-- Threat Detection & Response  
-- Digital Forensics & Malware Analysis  
-- MITRE ATT&CK Framework & Kill Chain Mapping  
-- SIEM, SOAR, and Endpoint Security Tools  
-- Vulnerability Management  
-- Threat Intelligence & TTP Research
+## 🧠 WHOAMI
+```bash
+> echo "Cyber defense isn't a job. It's a mindset."  
+> ./John_C --profile
 
----
 
-## 🧰 Tools & Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Exabeam](https://img.shields.io/badge/-Exabeam-1A73E8?style=flat)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![YARA](https://img.shields.io/badge/-YARA-0A0A0A?style=flat)
-![Kibana](https://img.shields.io/badge/-Kibana-E8488B?style=flat)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat)
+🎯 5+ years defending networks & hunting bad actors
+👾 Passionate about advanced threat detection & reverse engineering
+🧰 Exabeam, Splunk, YARA, Ghidra, Wireshark, and more
+📚 Forever learning — currently tackling CISSP
+✍️ Blogging about threat intel & cyber ops at [cybersafe.blog](https://joncanturk.medium.com/)
 
----
+⚙️ TOOLKIT
 
-## 📂 Featured Projects
+[+] SIEMs      --> Splunk | Exabeam | ELK
+[+] EDR        --> CrowdStrike | Carbon Black | SentinelOne
+[+] Forensics  --> Autopsy | FTK Imager | Volatility | CyberChef
+[+] Malware    --> Ghidra | IDA | YARA | Remnux
+[+] OSINT      --> Maltego | SpiderFoot | Shodan | VirusTotal
+[+] Scripting  --> Python | Bash | Regex | PowerShell
 
-### 🔍 Threat Detection Lab
-**Simulated SOC lab** for detecting & responding to common attacks  
-`Python • ELK Stack • Splunk • Sigma Rules`
+🧪 CURRENT PROJECTS
+🧬 ThreatSim Lab
+A simulated SOC environment built for practicing threat detection & response
+🔧 Python | Splunk | Sigma | MITRE ATT&CK
 
-### 🧪 Malware Analysis Portfolio  
-Analysis of real-world malware samples in a controlled lab  
-`IDA Pro • Ghidra • Remnux • YARA`
+🐍 Malware Analysis Vault
+Reverse engineering real-world malware samples in a safe sandbox
+🔧 Ghidra | YARA | Remnux | Static/Dynamic Analysis
 
-### 🛡️ SOC Automation Scripts  
-Custom Python scripts to enhance analyst workflow and reduce MTTR  
-`Python • Regex • REST APIs • Splunk Automation`
+⚡ SOC Automation Scripts
+Custom tools to speed up triage, IOC enrichment, and threat hunting
+🔧 Python | API Integration | Regex | JSON Parsing
 
----
+# Validated Skills
+[✔] CompTIA Security+
+[✔] CompTIA CySA+
+[✔] Splunk Core Certified Power User
+[⏳] CISSP (In Progress – 2025)
+[☠] Certified Hacker at Heart (Unofficial, but dangerous 😎)
 
-## 🧾 Certifications
-- CompTIA Security+ ✅  
-- CompTIA CySA+ ✅  
-- Splunk Core Certified Power User ✅  
-- **(In Progress)**: CISSP – (Expected: 2025)
+📡 CONNECT WITH ME
+📬 LinkedIn
+🌐 Cybersecurity Blog
+📧 your.email@example.com\
 
----
 
-## 📫 Let’s Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🧠 [Cybersecurity Blog](https://yourblog.com)  
-- 📨 Email: your.email@example.com  
+“You can’t patch human curiosity. So I weaponized it.”
+– Unknown
 
-> “In a world full of threats, be the firewall.”
 
----
+
+
